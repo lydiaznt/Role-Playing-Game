@@ -1,9 +1,9 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Λυδία Ευθυμία Ζωντανού 
+### University Registration Number: dpsd19041
+### GitHub Personal Profile: lydiaznt
+### Digital & Serious Games Personal Repository: 
 
 # Introduction
 
