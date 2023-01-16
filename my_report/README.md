@@ -30,7 +30,15 @@ sprite:
 μετα ασχοληθηκα με τα collectibles οπου διαλεξα αυτο το φρουτακι 
 ![Screenshot_1](https://user-images.githubusercontent.com/101419335/212299565-0c07abc4-d2fe-4600-9958-0414933dca95.png)
 και το εκανα να λειτουργει συμφωνα με τις οδηγιες του tutorial. η μουσικη που διαλλεξα ηταν αυτη https://www.youtube.com/watch?v=BKEyzDtOwu4
-για το σκορ χρησημοποιησα τισ γνωσεισ αυτου του βιντεο https://www.youtube.com/watch?v=cOW_T3i4_kk και ξεκινησα το μενου απο εδω https://www.youtube.com/watch?v=zc8ac_qUXQY
+για το σκορ χρησημοποιησα τισ γνωσεισ αυτου του βιντεο https://www.youtube.com/watch?v=cOW_T3i4_kk και ξεκινησα το μενου απο εδω https://www.youtube.com/watch?v=zc8ac_qUXQY![Screenshot (2)](https://user-images.githubusercontent.com/101419335/212580920-ed1e6df3-e8f2-4762-90ab-de564395cb45.png)
+το healthbar το εφτιαξαμε βαση τισ σημειωσεις ![Screenshot (3)](https://user-images.githubusercontent.com/101419335/212581279-e67db59a-04c4-40d7-a896-d3a301199411.png)
+
+υστερα ακολουθησα τισ σημειωσεις για τον διαλογο: παταμε το x για να βγει το συνεφο
+ακολουθησα αυτο το τουτοριαλ για το πορταλhttps://www.youtube.com/watch?v=0JXVT28KCIg παταμε το e για να μεταφερθουμε.
+
+
+
+
 # Conclusions
 
 
